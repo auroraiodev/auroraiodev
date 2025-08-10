@@ -1,49 +1,48 @@
-# AuroraIO
+# 🌌 AuroraIO
 
-**Innovación. Tecnología. Conexión.**
+**Innovation. Technology. Connection.**
 
-Bienvenido al repositorio oficial de **AuroraIO**, una empresa de IT dedicada a crear soluciones digitales inteligentes, escalables y seguras.
-
----
-
-## 🚀 ¿Quiénes somos?
-
-AuroraIO es una empresa de tecnología especializada en:
-- Desarrollo de software personalizado
-- Inteligencia artificial y automatización
-- Consultoría en infraestructura y nube
-- Integración de sistemas y APIs
+Welcome to the official GitHub organization of **AuroraIO**, a forward-thinking IT company focused on building intelligent, scalable, and secure digital solutions.
 
 ---
 
-## 🧠 Nuestra misión
+## 🚀 About Us
 
-Impulsar el crecimiento digital de empresas mediante soluciones tecnológicas que combinan innovación, eficiencia y escalabilidad.
-
----
-
-## 📁 Repositorios destacados
-
-- `aurora-core` – Motor principal de nuestras soluciones
-- `aurora-ai` – Proyectos de inteligencia artificial
-- `aurora-web` – Interfaces y experiencias web
+AuroraIO specializes in:
+- Custom software development
+- Artificial intelligence and automation
+- Cloud infrastructure and consulting
+- System and API integration
 
 ---
 
-## 🤝 Contribuye
+## 🧠 Our Mission
 
-¿Te interesa colaborar con nosotros?  
-Consulta nuestras guías de contribución y únete a nuestra comunidad de desarrolladores.
-
----
-
-## 📫 Contacto
-
-- 🌐 Sitio web: auroraio.dev
-- 📧 Email: contacto@auroraio.dev
-- 🐦 Twitter: @AuroraIO
+To empower businesses through cutting-edge technology that drives innovation, efficiency, and growth.
 
 ---
 
-> *AuroraIO: encendiendo el futuro digital.*
+## 📁 Featured Repositories
 
+- [`aurora-core`](https://github.com/auroraio/aurora-core) – Core engine powering our solutions
+- [`aurora-ai`](https://github.com/auroraio/aurora-ai) – AI and machine learning projects
+- [`aurora-web`](https://github.com/auroraio/aurora-web) – Web interfaces and user experiences
+
+---
+
+## 🤝 Contributing
+
+Interested in collaborating with us?  
+Check out our [contribution guidelines](CONTRIBUTING.md) and become part of our developer community.
+
+---
+
+## 📫 Contact
+
+- 🌐 Website: [auroraio.dev](https://auroraio.dev)
+- 📧 Email: contact@auroraio.dev
+- 🐦 Twitter: [@AuroraIO](https://twitter.com/AuroraIO)
+
+---
+
+> *AuroraIO: Igniting the digital future.*
