@@ -1,4 +1,4 @@
-# 🌌 AuroraIO
+# AuroraIO
 
 **Innovación. Tecnología. Conexión.**
 
